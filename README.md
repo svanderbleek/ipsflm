@@ -11,20 +11,28 @@
 
 * Residuated Lattices. An Algebraic Glimpse at Substructural Logics
 
-
 ## History
 
 * Towards Mechanical Mathematics
 * The mathematical context behind Frege’s analysis of function and object
 * From Hilbert’s Program to a Logic Tool Box
 * WHY SETS? ANDREAS BLASS AND YURI GUREVICH
+* Foundations of Mathematics. Genealogy and Overview
+
+## Induction
+
+* A Unified View of Induction Reasoning for First-Order Logic
+* Strategic Issues, Problems and Challenges in Inductive Theorem Proving
+* History and Future of Implicit and Inductionless Induction: Beware the Old Jade and the Zombie!
+* Automating induction: Explicit vs. inductionless.
+* A Unified View of Induction Reasoning for First-Order Logic
 
 ## Proof Complexity
 
 * Bounded Arithmetic, Propositional Logic, and Complexity Theory
 * Logical foundations of proof complexity
 
-## Overview
+## Background
 
 * Foundations of Mathematics from the perspective of Computer Verification
 * The QED Manifesto Revisited
@@ -33,6 +41,7 @@
 * Foundations of Mathematics from the perspective of Computer Verification
 * Computing in Cantor’s Paradise With λZFC
 * A type-free system extending ZFC
+* Simple word problems in universal algebras
 
 ## Tools
 
